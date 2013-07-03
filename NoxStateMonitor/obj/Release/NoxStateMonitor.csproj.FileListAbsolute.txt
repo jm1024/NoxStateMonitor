@@ -1,0 +1,17 @@
+C:\Users\James\Google Drive\Source\Test Code\NoxStateMonitor\NoxStateMonitor\bin\Release\NoxStateMonitor.exe.config
+C:\Users\James\Google Drive\Source\Test Code\NoxStateMonitor\NoxStateMonitor\bin\Release\NoxStateMonitor.exe
+C:\Users\James\Google Drive\Source\Test Code\NoxStateMonitor\NoxStateMonitor\bin\Release\NoxStateMonitor.pdb
+C:\Users\James\Google Drive\Source\Test Code\NoxStateMonitor\NoxStateMonitor\obj\Release\NoxStateMonitor.frmMain.resources
+C:\Users\James\Google Drive\Source\Test Code\NoxStateMonitor\NoxStateMonitor\obj\Release\NoxStateMonitor.Properties.Resources.resources
+C:\Users\James\Google Drive\Source\Test Code\NoxStateMonitor\NoxStateMonitor\obj\Release\NoxStateMonitor.csproj.GenerateResource.Cache
+C:\Users\James\Google Drive\Source\Test Code\NoxStateMonitor\NoxStateMonitor\obj\Release\NoxStateMonitor.exe
+C:\Users\James\Google Drive\Source\Test Code\NoxStateMonitor\NoxStateMonitor\obj\Release\NoxStateMonitor.pdb
+C:\Users\James\Google Drive\Source\Nox API Apps\NoxStateMonitor\NoxStateMonitor\bin\Release\NoxStateMonitor.exe.config
+C:\Users\James\Google Drive\Source\Nox API Apps\NoxStateMonitor\NoxStateMonitor\obj\Release\NoxStateMonitor.exe
+C:\Users\James\Google Drive\Source\Nox API Apps\NoxStateMonitor\NoxStateMonitor\obj\Release\NoxStateMonitor.pdb
+C:\Users\James\Google Drive\Source\Nox API Apps\NoxStateMonitor\NoxStateMonitor\bin\Release\NoxStateMonitor.exe
+C:\Users\James\Google Drive\Source\Nox API Apps\NoxStateMonitor\NoxStateMonitor\bin\Release\NoxStateMonitor.pdb
+C:\Users\James\Google Drive\Source\Nox API Apps\NoxStateMonitor\NoxStateMonitor\obj\Release\NoxStateMonitor.frmMain.resources
+C:\Users\James\Google Drive\Source\Nox API Apps\NoxStateMonitor\NoxStateMonitor\obj\Release\NoxStateMonitor.Properties.Resources.resources
+C:\Users\James\Google Drive\Source\Nox API Apps\NoxStateMonitor\NoxStateMonitor\obj\Release\NoxStateMonitor.csproj.GenerateResource.Cache
+C:\Users\James\Google Drive\Source\Nox API Apps\NoxStateMonitor\NoxStateMonitor\obj\Release\NoxStateMonitor.csprojResolveAssemblyReference.cache

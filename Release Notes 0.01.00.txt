@@ -1,0 +1,22 @@
+NoxStateMonitor 0.01.00
+
+This is a BETA
+
+Requires NoxCore 3.99.15 or higher
+
+Source: https://github.com/jm1024/NoxStateMonitor.git
+
+-------------------------------------
+Notes:
+-------------------------------------
+- Initial version
+
+-------------------------------------
+Technical Changes:
+-------------------------------------
+- none
+
+-------------------------------------
+Testing Notes:
+-------------------------------------
+- none

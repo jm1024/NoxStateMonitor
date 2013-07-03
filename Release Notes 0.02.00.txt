@@ -1,0 +1,17 @@
+NoxStateMonitor 0.02.00
+
+This is a BETA
+
+Requires NoxCore 3.99.15 or higher
+
+Source: https://github.com/jm1024/NoxStateMonitor.git
+
+-------------------------------------
+Notes:
+-------------------------------------
+- Rows are now colored based on state
+- Adds "snapshot" button to just take a quick snapshot of state
+- Connection problems no longer produce a dialog box
+- Connection messages are now displayed in the status label
+- Absent present and squelch counts are displayed in the status label
+- Long poll cycles will no longer overlap

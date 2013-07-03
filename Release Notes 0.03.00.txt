@@ -1,0 +1,13 @@
+NoxStateMonitor 0.03.00
+
+This is a BETA
+
+Requires NoxCore 3.99.15 or higher
+
+Source: https://github.com/jm1024/NoxStateMonitor.git
+
+-------------------------------------
+Notes:
+-------------------------------------
+- Adds option for a muxed state view
+- Adds an icon
